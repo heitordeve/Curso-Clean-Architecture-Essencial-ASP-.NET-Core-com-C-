@@ -1,0 +1,12 @@
+C:\Projetos\Curso-Clean-Architecture-Essencial-ASP-.NET-Core-com-C#\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.deps.json
+C:\Projetos\Curso-Clean-Architecture-Essencial-ASP-.NET-Core-com-C#\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+C:\Projetos\Curso-Clean-Architecture-Essencial-ASP-.NET-Core-com-C#\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
+C:\Projetos\Curso-Clean-Architecture-Essencial-ASP-.NET-Core-com-C#\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+C:\Projetos\Curso-Clean-Architecture-Essencial-ASP-.NET-Core-com-C#\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csprojAssemblyReference.cache
+C:\Projetos\Curso-Clean-Architecture-Essencial-ASP-.NET-Core-com-C#\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Curso-Clean-Architecture-Essencial-ASP-.NET-Core-com-C#\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+C:\Projetos\Curso-Clean-Architecture-Essencial-ASP-.NET-Core-com-C#\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+C:\Projetos\Curso-Clean-Architecture-Essencial-ASP-.NET-Core-com-C#\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso-Clean-Architecture-Essencial-ASP-.NET-Core-com-C#\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+C:\Projetos\Curso-Clean-Architecture-Essencial-ASP-.NET-Core-com-C#\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
+C:\Projetos\Curso-Clean-Architecture-Essencial-ASP-.NET-Core-com-C#\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
